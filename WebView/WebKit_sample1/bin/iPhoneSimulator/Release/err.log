@@ -1,0 +1,4 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2018-10-17 10:04:54.369718+0900 WebKit_sample1[2887:359853] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=2887
+2018-10-17 10:04:54.369949+0900 WebKit_sample1[2887:359853] SecTaskCopyDebugDescription: WebKit_sample1[2887]/0#-1 LF=0
+2018-10-17 10:04:54.381808+0900 WebKit_sample1[2887:359853] libMobileGestalt MobileGestalt.c:890: MGIsDeviceOneOfType is not supported on this platform.

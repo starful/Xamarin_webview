@@ -1,0 +1,9 @@
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhone/Release/WebKit_sample1.exe
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/coremlc/_PartialAppManifest.items
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/coremlc/_BundleResourceWithLogicalName.items
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/optimized/
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/WebView.csproj.CoreCompileInputs.cache
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhone/Release/WebKit_sample1.exe

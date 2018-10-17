@@ -1,0 +1,8 @@
+RemoveDynamicRegistrar:false
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhoneSimulator/Release/WebKit_sample1.app:/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/WebKit_sample1.exe
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhoneSimulator/Release/WebKit_sample1.app:/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/mscorlib.dll
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhoneSimulator/Release/WebKit_sample1.app:/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhoneSimulator/Release/WebKit_sample1.app:/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.dll
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhoneSimulator/Release/WebKit_sample1.app:/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/Mono.Security.dll
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhoneSimulator/Release/WebKit_sample1.app:/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Xml.dll
+/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/bin/iPhoneSimulator/Release/WebKit_sample1.app:/Users/s-han/work/ios-samples-master/WebView/WebKit_sample1/obj/iPhoneSimulator/Release/mtouch-cache/1-Link/System.Core.dll
